@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lawan</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_belajar">Belajar</string>
+    <string name="title_activity_pemakan_tumbuhan">Pemakan Tumbuhan</string>
+    <string name="title_activity_pemakan_daging">Pemakan Daging</string>
+    <string name="title_activity_pemakan_serangga">Pemakan Serangga</string>
+    <string name="title_activity_pemakan_segalanya">Pemakan Segalanya</string>
+    <string name="title_activity_hangsa">Angsa</string>
+</resources>
